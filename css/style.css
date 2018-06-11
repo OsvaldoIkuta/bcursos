@@ -103,3 +103,7 @@ hr {
 #news, #cursos {
     padding: 50px 0;
 }
+
+#contato .text-center {
+    margin: 40px 0;
+}
